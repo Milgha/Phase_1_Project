@@ -23,15 +23,15 @@ We took the data for our analysis from two sources: IMDb, and The Numbers. Both 
 
 Our analysis found that the most profitable genres are Animation, Adventure, Sci-Fi, Action, and Family. With these genres in mind, we can draw out a potential team from a list of consistently profitable talent. For performers, Robert Downey Jr. and Bryce Dallas Howard are both well-known names that appear in profitable films in the top genres. Some strong directors that would work well in these genres are Colin Trevorrow and Francis Lawrence. For writer, Guillermo del Toro would be a great fit with his broad experience in the top genres. 
 
-![](Images/2022-08-26%2009_30_21-Microsoft_Film_Studio.pptx%20-%20PowerPoint.png)
+![](Genre_Analysis.PNG)
 
-![](Images/2022-08-26%2009_32_02-Microsoft_Film_Studio.pptx%20-%20PowerPoint.png)
+![](Performers_Analysis.png)
 
-![](Images/genreplot.png)
+![](Directors_Analysis.png)
 
 We found a positive correlation between budget and profit, so a higher budget film would be best to maximize profit. Looking at the budget information for the 100 most profitable films, the median budget was $160 million, and median profit was $600 million dollars.
 
-![](Images/2022-08-26%2009_32_44-Microsoft_Film_Studio.pptx%20-%20PowerPoint.png)
+![](Profit_Analysis.png)
 
 ## Conclusions
 
