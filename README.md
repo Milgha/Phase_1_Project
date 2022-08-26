@@ -42,7 +42,6 @@ In future, we can investigate the feasibility of making Animation movies and see
 ```bash
 +---Code
 |   |   Master_Notebook.ipynb
-|   \---.ipynb_checkpoints
 |
 +---Data
 |   |   bom.movie_gross.csv.gz
@@ -57,10 +56,10 @@ In future, we can investigate the feasibility of making Animation movies and see
 |
 +---Images
 |
-+---.ipynb_checkpoints
-|
 |   .gitignore
+|   Master_Notebook.pdf
+|   Github_repo.pdf
 |   Master_Notebook.ipynb
-|   Microsoft_Film_Studio.pptx
+|   Microsoft_Film_Studio.pdf
 |   README.md
 ```
