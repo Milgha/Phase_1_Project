@@ -1,5 +1,5 @@
 # Phase_1_Project
-Microsoft Studio
+# Microsoft Studio
 
 ![](Images/README%20Header.png)
 
@@ -24,6 +24,10 @@ We found a positive correlation between budget and profit, so a higher budget fi
 
 ![](Images/2022-08-26%2009_32_02-Microsoft_Film_Studio.pptx%20-%20PowerPoint.png)
 
+![](Images/2022-08-26%2009_32_02-Microsoft_Film_Studio.pptx%20-%20PowerPoint.png)
+
+We found a positive correlation between budget and profit, so a higher budget film would be best to maximize profit. Looking at the budget information for the 100 most profitable films, the median budget was $160 million, and median profit was $600 million dollars.
+
 ![](Images/2022-08-26%2009_32_44-Microsoft_Film_Studio.pptx%20-%20PowerPoint.png)
 
 ## Conclusions
@@ -31,3 +35,32 @@ We found a positive correlation between budget and profit, so a higher budget fi
 Animated movies are extremely profitable, but discussion with the stakeholder is needed to determine if opening an animation studio is feasible compared to a traditional film studio. We recommend Microsoft goes with consistently profitable star performers such as Robert Downey Jr. and Bryce Dallas Howard, proven adventure directors like Colin Trevorrow or Francis Lawrence, and a writer such as Guillermo del Toro. 
 A big film franchise to emulate would be Jurassic World, or if animation is a feasible direction, The Incredibles. The stakeholder should expect to spend around 150 million dollars on their production budget to make a big hit.
 
+## Future Consideration
+
+In future, we can investigate the feasibility of making Animation movies and see how to compete with big names like Disney. Also, the possibility of partnership with other studios like Universal and Paramount can be investigated. Budget breakdown would be another thing to be analyzed to see how much needs to be spent on different aspects like casts, advertisement as well as hidden costs. 
+
+```bash
++---Code
+|   |   Master_Notebook.ipynb
+|   \---.ipynb_checkpoints
+|
++---Data
+|   |   bom.movie_gross.csv.gz
+|   |   im.db.zip
+|   |   rt.movie_info.tsv.gz
+|   |   rt.reviews.tsv.gz
+|   |   tmdb.movies.csv.gz
+|   |   tn.movie_budgets.csv.gz
+|   |
+|   \---im.db
+|           im.db
+|
++---Images
+|
++---.ipynb_checkpoints
+|
+|   .gitignore
+|   Master_Notebook.ipynb
+|   Microsoft_Film_Studio.pptx
+|   README.md
+```
